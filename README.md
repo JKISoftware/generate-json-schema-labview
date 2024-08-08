@@ -2,6 +2,7 @@
 
 Simple example of generating [JSON Schema](https://json-schema.org) from LabVIEW data types.
 
+![example](docs/images/example_front_panel.png)
 
 ## Goals
 
@@ -17,8 +18,6 @@ Simple example of generating [JSON Schema](https://json-schema.org) from LabVIEW
 
 - Project Status: Example Code / Non-Production
 - Save Version: LabVIEW 2020
-
-![example](docs/images/example_front_panel.png)
 
 ## Roadmap
 
