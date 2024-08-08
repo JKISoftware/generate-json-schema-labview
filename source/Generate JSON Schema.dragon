@@ -1,0 +1,11 @@
+[project]
+labview-version = 2024
+vipc = ""
+
+[nipm]
+
+[vipm]
+
+[vipm.dependencies]
+oglib_lvdata = "6.0.0.45"
+jdp_science_jsontext = "1.8.2.122"
